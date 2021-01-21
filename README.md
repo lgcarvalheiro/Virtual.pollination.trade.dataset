@@ -49,13 +49,13 @@ dep.imp.non.dep.cons:	Dependence of non-dependent crop consumption on importatio
 
 dep.imp.cons:	Dependence of overal consumption on importantion of crops
 
-cropland.adj.to.vegetation:	Percentage of cropland areas adjacent to natural vegetation areas, i.e. at less than 450m (average over 2001-2015)
+cropland.adj.to.vegetation:	Percentage of cropland areas adjacent to natural vegetation areas, i.e. centroid at less than 450m (average over 2001-2015)
 
-PropCropNearNature_600m_mean:	Percentage of cropland areas adjacent to natural vegetation areas, i.e. at less than 450m (average over 2001-2015)
+PropCropNearNature_600m_mean:	Percentage of cropland areas adjacent to natural vegetation areas, i.e.centroid at less than 450m (average over 2001-2015)
 
-PropCropNearNature_600m2001:	Percentage of cropland areas adjacent to natural vegetation areas, i.e. at less than 450m, in 2001
+PropCropNearNature_600m2001:	Percentage of cropland areas adjacent to natural vegetation areas, i.e. centroidat less than 450m, in 2001
 
-PropCropNearNature_600m2015:	Percentage of cropland areas adjacent to natural vegetation areas, i.e. at less than 450m, in 2015
+PropCropNearNature_600m2015:	Percentage of cropland areas adjacent to natural vegetation areas, i.e. centroid at less than 450m, in 2015
 
 total.cropland:	total cropland area (average over 2001-2015)
 
@@ -63,18 +63,18 @@ Contact:	Number of cropland pixels in contact to vegetation pixels
 
 NoContact:	Number of cropland pixels with no contact to vegetation pixels
 
-avg.HDI	Humand developmen index (average over 2001-2015)
+avg.HDI:	Human development index (average over 2001-2015)
 
-HDI_exp	Humand developmen index weighted by participation of each trading partners in exportation 
+HDI_exp:	HDI weighted average of trading partners. Relative contribution of each trading partner for exportation were used as weights
 
-HDI_imp	Humand developmen index weighted by participation of each trading partners in importation
+HDI_imp:	HDI weighted average of trading partners. Relative contribution of each trading partner for importation were used as weights
 
-population	Number of people (average over 2001-2015)
+population:	Number of people (average over 2001-2015)
 
-country.area.2015	Country area in 2015
+country.area.2015:	Country area in 2015
 
-forest.land.2015	Forest land area in 2015
+forest.land.2015:	Forest land area in 2015
 
-part.protectedland.total.land	Percentage of forest land in country area in 2015
+part.protectedland.total.land:	Percentage of forest land in country area in 2015
 
 
