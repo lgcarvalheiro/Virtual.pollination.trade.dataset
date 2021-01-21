@@ -51,17 +51,17 @@ dep.imp.cons:	Dependence of overal consumption on importantion of crops
 
 cropland.adj.to.vegetation:	Percentage of cropland areas adjacent to natural vegetation areas, i.e. centroid at less than 450m (average over 2001-2015)
 
-PropCropNearNature_600m_mean:	Percentage of cropland areas adjacent to natural vegetation areas, i.e.centroid at less than 450m (average over 2001-2015)
+PropCropNearNature_600m_mean:	Percentage of cropland areas adjacent to natural vegetation areas, i.e. centroid at less than 450m (average over 2001-2015)
 
-PropCropNearNature_600m2001:	Percentage of cropland areas adjacent to natural vegetation areas, i.e. centroidat less than 450m, in 2001
+PropCropNearNature_600m2001:	Percentage of cropland areas adjacent to natural vegetation areas, i.e. centroid at less than 450m, in 2001
 
 PropCropNearNature_600m2015:	Percentage of cropland areas adjacent to natural vegetation areas, i.e. centroid at less than 450m, in 2015
 
 total.cropland:	total cropland area (average over 2001-2015)
 
-Contact:	Number of cropland pixels in contact to vegetation pixels
+Contact:	Number of cropland pixels near natural vegetation pixels, i.e. centroid at less than 450m
 
-NoContact:	Number of cropland pixels with no contact to vegetation pixels
+NoContact:	Number of cropland pixels with no contact with natural vegetation pixels
 
 avg.HDI:	Human development index (average over 2001-2015)
 
