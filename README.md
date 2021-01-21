@@ -43,11 +43,11 @@ non.dep.cons:	Consumption (production + importation - exportation) of non-depend
 
 total.cons:	Total crop consumption (production + importation - exportation) (average over 2001-2015)
 
-dep.imp.VP.cons:	Dependence of virtual pollinator consumption on importantion of virtual pollination 
+dep.imp.VP.cons:	Dependence of virtual pollinator consumption on importation of virtual pollination 
 
 dep.imp.non.dep.cons:	Dependence of non-dependent crop consumption on importation of non-dependent crop
 
-dep.imp.cons:	Dependence of overal consumption on importantion of crops
+dep.imp.cons:	Dependence of overal consumption on importation of crops
 
 cropland.adj.to.vegetation:	Percentage of cropland areas adjacent to natural vegetation areas, i.e. centroid at less than 450m (average over 2001-2015)
 
