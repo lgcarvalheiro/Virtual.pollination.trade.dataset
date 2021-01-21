@@ -75,6 +75,6 @@ country.area.2015:	Country area in 2015
 
 forest.land.2015:	Forest land area in 2015
 
-part.protectedland.total.land:	Percentage of forest land in country area in 2015
+part.protectedland.total.land:	Percentage of forest land within country in 2015
 
 
