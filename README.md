@@ -3,8 +3,10 @@ Datasets used in Silva et al. 2021 Science Advances
 
 DESCRIPTION OF EACH COLUMN	
 	
-Countries:	reported country
-Type: 	type of information associated to pollinator-dependent crop, non-dependent crop, total crop, VP - virtual pollination, and VNP - data of pollinator-dependent crop that do not depend on pollinators ('pollinator-dependent crop' minus 'VP')
+Countries:	
+reported country
+Type: 	
+type of information associated to pollinator-dependent crop, non-dependent crop, total crop, VP - virtual pollination, and VNP - data of pollinator-dependent crop that do not depend on pollinators ('pollinator-dependent crop' minus 'VP')
 IMPORTATIONS:	informantion on importation associated to type of product indicated at 'Type' column (in tonnes) (average over 2001-2015)
 REL_IMP:	percentage of importation of each type of crops ('Type' column) in overall value of their respective category
 EXPORTATIONS:	informantion on exportation associated to type of product indicated at 'Type' column (in tonnes) (average over 2001-2015)
