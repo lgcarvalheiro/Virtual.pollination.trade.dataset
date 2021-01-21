@@ -1,7 +1,7 @@
 # Virtual.pollination.trade.dataset
 Datasets used in Silva et al. 2021 Science Advances
 
-DESCRIPTION OF EACH COLUMN	
+DESCRIPTION OF EACH COLUMN of TABELA_TOTALv9.txt	
 	
 Countries:	
 reported country
